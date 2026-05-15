@@ -4,7 +4,7 @@ Hi there 👋, I'm Eman Bashir
   -🎓 Student / Developer / Designer
   -💻 Interested in Programming and Technology
   -🌱 Currently learning: C++, Web Development, and GitHub
-  -📫 Contact me: your.email@example.com
+  -📫 Contact me: Email
 🛠️ Skills & Tools
   -Programming Languages: C++, Python, Java
   -Web Technologies: HTML, CSS, JavaScript
