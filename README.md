@@ -1,6 +1,6 @@
 Hi there 👋, I'm Eman Bashir
 
-🚀 About Me
+**.** 🚀 About Me
   -🎓 Student / Developer / Designer
   -💻 Interested in Programming and Technology
   -🌱 Currently learning: C++, Web Development, and GitHub
