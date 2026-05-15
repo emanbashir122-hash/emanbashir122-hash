@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi there 👋, I'm Eman Bashir
 
-<!--
-**emanbashir122-hash/emanbashir122-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+  -🎓 Student / Developer / Designer
+  -💻 Interested in Programming and Technology
+  -🌱 Currently learning: C++, Web Development, and GitHub
+  -📫 Contact me: your.email@example.com
+🛠️ Skills & Tools
+  -Programming Languages: C++, Python, Java
+  -Web Technologies: HTML, CSS, JavaScript
+  -Tools: Git, GitHub, VS Code
+📌 Projects
+  1. Logic Gate Simulator
+     Created digital logic gate circuits and truth tables.
+     Implemented SOP and POS expression
+     
+🌐 Connect With Me
+-GitHub: https://github.com/emanbashir122-hash
+-LinkedIn:https://www.linkedin.com/in/eman-bashir-3785b0395
