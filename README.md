@@ -8,7 +8,7 @@ Hi there 👋, I'm Eman Bashir
  
   -🌱 Currently learning: C++, Web Development, and GitHub
   
-  -📫 Contact me: emanbashir122@gmail.com
+  -Contact me: emanbashir122@gmail.com
   ---
 🛠️ Skills & Tools
 ---
@@ -23,7 +23,9 @@ Hi there 👋, I'm Eman Bashir
   1. Logic Gate Simulator: 
      -Created digital logic gate circuits and truth tables.
      -Implemented SOP and POS expression
+     ---
 🌐 Connect With Me
+
 -GitHub: https://github.com/emanbashir122-hash
 -LinkedIn:https://www.linkedin.com/in/eman-bashir-3785b0395
 ---
