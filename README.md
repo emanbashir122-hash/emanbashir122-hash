@@ -25,7 +25,6 @@ Hi there 👋, I'm Eman Bashir
      -Implemented SOP and POS expression
      ---
 🌐 Connect With Me
-
 -GitHub: https://github.com/emanbashir122-hash
 -LinkedIn:https://www.linkedin.com/in/eman-bashir-3785b0395
 ---
