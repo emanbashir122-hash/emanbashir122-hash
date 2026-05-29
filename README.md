@@ -8,12 +8,14 @@ Hi there 👋, I'm Eman Bashir
  
   -🌱 Currently learning: C++, Web Development, and GitHub
   
-  -📫 Contact me: Email
+  -📫 Contact me: emanbashir122@gmail.com
   ---
 🛠️ Skills & Tools
 ---
   -Programming Languages: C++, Python, Java
+  
   -Web Technologies: HTML, CSS, JavaScript
+  
   -Tools: Git, GitHub, VS Code
 ---
 📌 Projects
